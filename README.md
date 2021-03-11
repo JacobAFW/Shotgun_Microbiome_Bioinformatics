@@ -1,1 +1,3 @@
 # Shotgun_Microbiome_Bioinformatics
+
+This repo contains a workflow I used that based largely around the [MetaWRAP](https://github.com/bxlab/metaWRAP/blob/master/Usage_tutorial.md) wrapper, however it steps outside of this a couple of times to use updated software (MetaWRAP have now update these). Some chunks can be run directly in the terminal, but others will require submission to the HPC as they are resource intensive. HPC jobs will be denoted with **(qsub)**.
