@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Analysis_from_MetaWRAP.Rmd
+Clinical_metadata.csv
+Clinical_metadata.doc
+Clinical_metadata.xlsx
+Metagenomics_HPC_workflow/
+MetaWRAP_Data
+Microba_Data/
+Microba_Analysis.Rmd
